@@ -27,7 +27,7 @@
   "dependencies": {
     "@actions/core": "^1.2.6",
     "chrome-webstore-upload": "^1.0.0",
-    "glob": "^7.1.6"
+    "glob": "^7.2.3"
   },
   "devDependencies": {
     "@types/glob": "^7.1.1",
